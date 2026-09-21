@@ -6,15 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/0rvnEnrcFllh?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=0rvnEnrcFllh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/0rvnEnrcFllh?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rvnEnrcFllh&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
-</p>
-
 ## 🚀 About Me
 
 Hey there! 👋 I'm **Orvin Enrico Fallah**, a **Fullstack Developer** with experience building modern web applications using JavaScript.
